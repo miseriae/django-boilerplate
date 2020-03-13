@@ -1,0 +1,9 @@
+*env
+.vscode
+**/*.pyc
+**/__pycache__
+media
+static_in_env
+.DS_Store
+*.sqlite3
+*.env
